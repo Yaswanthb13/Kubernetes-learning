@@ -18,6 +18,7 @@ Node components:
 
 Master node consists of :
 API server,etcd,scheduler,controller,container runtime,kubelet
+
 Worker node consists:
 container runtime,kubelet
 
